@@ -1,0 +1,16 @@
+backend/.terraform.lock.hcl
+envs/dev/terraform.tfstate
+backend/terraform.tfstate
+backend/.terraform/providers/registry.terraform.io/hashicorp/aws/5.68.0/windows_amd64/terraform-provider-aws_v5.68.0_x5.exe
+envs/dev/.terraform.lock.hcl
+envs/dev/terraform.tfstate.backup
+envs/dev/.terraform/
+envs/dev/backend/.terraform.lock.hcl
+envs/dev/backend/.terraform/providers/registry.terraform.io/hashicorp/aws/5.68.0/windows_amd64/terraform-provider-aws_v5.68.0_x5.exe
+envs/dev/backend/terraform.tfstate
+backend/.terraform/
+backend/.terrafom.lock.hcl
+.terraform.lock.hcl 
+.terraform/terraform.tfstate
+.terraform.tfstate.backup
+.terraform
